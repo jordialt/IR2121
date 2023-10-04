@@ -11,7 +11,7 @@ def generate_launch_description():
 
 	ld = LaunchDescription()
 
-	map_file_path = '/home/ecervera/Documents/GitHub/IR2121/Worlds/TD_n1.yaml'
+	map_file_path = '/home/usuario/Documentos/GitHub/IR2121/Worlds/TD_n1.yaml'
 
 	map_server_cmd = Node(
 		package='nav2_map_server',
