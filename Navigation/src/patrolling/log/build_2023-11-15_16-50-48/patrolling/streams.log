@@ -1,0 +1,29 @@
+[0.018s] Invoking command in '/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/build/patrolling': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/build/patrolling -- -j6 -l6
+[0.073s] [ 50%] [32mBuilding CXX object CMakeFiles/goal.dir/src/publisher.cpp.o[0m
+[1.118s] [01m[K/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/src/publisher.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[1.118s] [01m[K/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/src/publisher.cpp:13:8:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kpublish_count[m[K’ [[01;35m[K-Wunused-variable[m[K]
+[1.118s]    13 |   auto [01;35m[Kpublish_count[m[K = 0;
+[1.118s]       |        [01;35m[K^~~~~~~~~~~~~[m[K
+[2.518s] [100%] [32m[1mLinking CXX executable goal[0m
+[2.777s] [100%] Built target goal
+[2.788s] Invoked command in '/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/build/patrolling' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/build/patrolling -- -j6 -l6
+[2.824s] Invoking command in '/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/build/patrolling': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/build/patrolling
+[2.832s] -- Install configuration: ""
+[2.832s] -- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/lib/patrolling/goal
+[2.842s] -- Set runtime path of "/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/lib/patrolling/goal" to ""
+[2.842s] -- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/ament_index/resource_index/package_run_dependencies/patrolling
+[2.843s] -- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/ament_index/resource_index/parent_prefix_path/patrolling
+[2.844s] -- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/environment/ament_prefix_path.sh
+[2.844s] -- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/environment/ament_prefix_path.dsv
+[2.845s] -- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/environment/path.sh
+[2.846s] -- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/environment/path.dsv
+[2.846s] -- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/local_setup.bash
+[2.847s] -- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/local_setup.sh
+[2.848s] -- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/local_setup.zsh
+[2.849s] -- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/local_setup.dsv
+[2.849s] -- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/package.dsv
+[2.849s] -- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/ament_index/resource_index/packages/patrolling
+[2.850s] -- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/cmake/patrollingConfig.cmake
+[2.850s] -- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/cmake/patrollingConfig-version.cmake
+[2.851s] -- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/package.xml
+[2.853s] Invoked command in '/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/build/patrolling' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/build/patrolling

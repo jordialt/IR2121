@@ -1,0 +1,64 @@
+[0.000000] (-) TimerEvent: {}
+[0.001143] (patrolling) JobQueued: {'identifier': 'patrolling', 'dependencies': OrderedDict()}
+[0.001212] (patrolling) JobStarted: {'identifier': 'patrolling'}
+[0.017738] (patrolling) JobProgress: {'identifier': 'patrolling', 'progress': 'cmake'}
+[0.018239] (patrolling) Command: {'cmd': ['/usr/bin/cmake', '/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling', '-DCMAKE_INSTALL_PREFIX=/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling'], 'cwd': '/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/build/patrolling', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'usuario'), ('SSH_AGENT_PID', '2966'), ('XDG_SESSION_TYPE', 'x11'), ('GIT_ASKPASS', '/usr/share/code/resources/app/extensions/git/dist/askpass.sh'), ('SHLVL', '1'), ('QT4_IM_MODULE', 'ibus'), ('HOME', '/home/usuario'), ('CHROME_DESKTOP', 'code-url-handler.desktop'), ('TERM_PROGRAM_VERSION', '1.81.1'), ('DESKTOP_SESSION', 'ubuntu'), ('GIO_LAUNCHED_DESKTOP_FILE', '/usr/share/applications/code.desktop'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('VSCODE_GIT_ASKPASS_MAIN', '/usr/share/code/resources/app/extensions/git/dist/askpass-main.js'), ('VSCODE_GIT_ASKPASS_NODE', '/usr/share/code/code'), ('MANAGERPID', '2784'), ('DBUS_STARTER_BUS_TYPE', 'session'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus,guid=32781bc474c1c9a5e12d77646554d398'), ('COLORTERM', 'truecolor'), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '13376'), ('MANDATORY_PATH', '/usr/share/gconf/ubuntu.mandatory.path'), ('IM_CONFIG_PHASE', '1'), ('GTK_IM_MODULE', 'ibus'), ('LOGNAME', 'usuario'), ('JOURNAL_STREAM', '8:62750'), ('_', '/usr/bin/colcon'), ('XDG_SESSION_CLASS', 'user'), ('DEFAULTS_PATH', '/usr/share/gconf/ubuntu.default.path'), ('USERNAME', 'usuario'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('WINDOWPATH', '2'), ('PATH', '/xilinx/Vitis_HLS/2022.2/bin/:/xilinx/Vivado/2022.2/bin/:/home/usuario/.local/bin:/xilinx/Vitis_HLS/2022.2/bin/:/xilinx/Vivado/2022.2/bin/:/home/usuario/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('SESSION_MANAGER', 'local/labrob09.act.uji.es:@/tmp/.ICE-unix/3058,unix/labrob09.act.uji.es:/tmp/.ICE-unix/3058'), ('INVOCATION_ID', '90f7f4ea77a94e229d924034933d623e'), ('XDG_MENU_PREFIX', 'gnome-'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('GDK_BACKEND', 'x11'), ('DISPLAY', ':1'), ('LANG', 'es_ES.UTF-8'), ('XDG_CURRENT_DESKTOP', 'Unity'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('VSCODE_GIT_IPC_HANDLE', '/run/user/1000/vscode-git-c9ab912016.sock'), ('TERM_PROGRAM', 'vscode'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('SHELL', '/bin/bash'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('VSCODE_GIT_ASKPASS_EXTRA_ARGS', '--ms-enable-electron-run-as-node'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/build/patrolling'), ('LC_ALL', 'es_ES.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('CLUTTER_IM_MODULE', 'ibus'), ('DBUS_STARTER_ADDRESS', 'unix:path=/run/user/1000/bus,guid=32781bc474c1c9a5e12d77646554d398'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('COLCON', '1')]), 'shell': False}
+[0.098917] (-) TimerEvent: {}
+[0.199489] (-) TimerEvent: {}
+[0.299915] (-) TimerEvent: {}
+[0.400242] (-) TimerEvent: {}
+[0.494848] (patrolling) StdoutLine: {'line': b'-- The C compiler identification is GNU 9.4.0\n'}
+[0.500341] (-) TimerEvent: {}
+[0.600627] (-) TimerEvent: {}
+[0.700892] (-) TimerEvent: {}
+[0.801422] (-) TimerEvent: {}
+[0.883205] (patrolling) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 9.4.0\n'}
+[0.899984] (patrolling) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc\n'}
+[0.901514] (-) TimerEvent: {}
+[1.001770] (-) TimerEvent: {}
+[1.102037] (-) TimerEvent: {}
+[1.202345] (-) TimerEvent: {}
+[1.277329] (patrolling) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc -- works\n'}
+[1.283197] (patrolling) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[1.302451] (-) TimerEvent: {}
+[1.402800] (-) TimerEvent: {}
+[1.503084] (-) TimerEvent: {}
+[1.603375] (-) TimerEvent: {}
+[1.643636] (patrolling) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[1.672315] (patrolling) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[1.672830] (patrolling) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[1.690407] (patrolling) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++\n'}
+[1.703508] (-) TimerEvent: {}
+[1.803901] (-) TimerEvent: {}
+[1.904329] (-) TimerEvent: {}
+[1.965166] (patrolling) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ -- works\n'}
+[1.972130] (patrolling) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[2.004418] (-) TimerEvent: {}
+[2.104690] (-) TimerEvent: {}
+[2.205077] (-) TimerEvent: {}
+[2.260036] (patrolling) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[2.303897] (patrolling) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[2.304330] (patrolling) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[2.305162] (-) TimerEvent: {}
+[2.328201] (patrolling) StderrLine: {'line': b'CMake Error at CMakeLists.txt:19 (find_package):\n'}
+[2.328442] (patrolling) StderrLine: {'line': b'  By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project\n'}
+[2.328515] (patrolling) StderrLine: {'line': b'  has asked CMake to find a package configuration file provided by\n'}
+[2.328572] (patrolling) StderrLine: {'line': b'  "ament_cmake", but CMake did not find one.\n'}
+[2.328624] (patrolling) StderrLine: {'line': b'\n'}
+[2.328673] (patrolling) StderrLine: {'line': b'  Could not find a package configuration file provided by "ament_cmake" with\n'}
+[2.328722] (patrolling) StderrLine: {'line': b'  any of the following names:\n'}
+[2.328770] (patrolling) StderrLine: {'line': b'\n'}
+[2.328817] (patrolling) StderrLine: {'line': b'    ament_cmakeConfig.cmake\n'}
+[2.328866] (patrolling) StderrLine: {'line': b'    ament_cmake-config.cmake\n'}
+[2.328916] (patrolling) StderrLine: {'line': b'\n'}
+[2.328962] (patrolling) StderrLine: {'line': b'  Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set\n'}
+[2.329015] (patrolling) StderrLine: {'line': b'  "ament_cmake_DIR" to a directory containing one of the above files.  If\n'}
+[2.329061] (patrolling) StderrLine: {'line': b'  "ament_cmake" provides a separate development package or SDK, be sure it\n'}
+[2.329106] (patrolling) StderrLine: {'line': b'  has been installed.\n'}
+[2.329150] (patrolling) StderrLine: {'line': b'\n'}
+[2.329194] (patrolling) StderrLine: {'line': b'\n'}
+[2.329240] (patrolling) StdoutLine: {'line': b'-- Configuring incomplete, errors occurred!\n'}
+[2.329292] (patrolling) StdoutLine: {'line': b'See also "/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/build/patrolling/CMakeFiles/CMakeOutput.log".\n'}
+[2.331361] (patrolling) CommandEnded: {'returncode': 1}
+[2.379107] (patrolling) JobEnded: {'identifier': 'patrolling', 'rc': 1}
+[2.381236] (-) EventReactorShutdown: {}

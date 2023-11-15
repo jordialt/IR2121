@@ -1,0 +1,35 @@
+[0.020s] Invoking command in '/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/build/patrolling': /usr/bin/cmake /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling -DCMAKE_INSTALL_PREFIX=/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling
+[0.494s] -- The C compiler identification is GNU 9.4.0
+[0.882s] -- The CXX compiler identification is GNU 9.4.0
+[0.899s] -- Check for working C compiler: /usr/bin/cc
+[1.276s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.282s] -- Detecting C compiler ABI info
+[1.643s] -- Detecting C compiler ABI info - done
+[1.671s] -- Detecting C compile features
+[1.672s] -- Detecting C compile features - done
+[1.689s] -- Check for working CXX compiler: /usr/bin/c++
+[1.964s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.971s] -- Detecting CXX compiler ABI info
+[2.259s] -- Detecting CXX compiler ABI info - done
+[2.303s] -- Detecting CXX compile features
+[2.303s] -- Detecting CXX compile features - done
+[2.327s] CMake Error at CMakeLists.txt:19 (find_package):
+[2.327s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[2.327s]   has asked CMake to find a package configuration file provided by
+[2.327s]   "ament_cmake", but CMake did not find one.
+[2.327s] 
+[2.327s]   Could not find a package configuration file provided by "ament_cmake" with
+[2.328s]   any of the following names:
+[2.328s] 
+[2.328s]     ament_cmakeConfig.cmake
+[2.328s]     ament_cmake-config.cmake
+[2.328s] 
+[2.328s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[2.328s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[2.328s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[2.328s]   has been installed.
+[2.328s] 
+[2.328s] 
+[2.328s] -- Configuring incomplete, errors occurred!
+[2.328s] See also "/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/build/patrolling/CMakeFiles/CMakeOutput.log".
+[2.330s] Invoked command in '/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/build/patrolling' returned '1': /usr/bin/cmake /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling -DCMAKE_INSTALL_PREFIX=/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling

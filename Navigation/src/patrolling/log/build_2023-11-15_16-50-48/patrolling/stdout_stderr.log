@@ -1,0 +1,25 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/goal.dir/src/publisher.cpp.o[0m
+[01m[K/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/src/publisher.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/src/publisher.cpp:13:8:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kpublish_count[m[K’ [[01;35m[K-Wunused-variable[m[K]
+   13 |   auto [01;35m[Kpublish_count[m[K = 0;
+      |        [01;35m[K^~~~~~~~~~~~~[m[K
+[100%] [32m[1mLinking CXX executable goal[0m
+[100%] Built target goal
+-- Install configuration: ""
+-- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/lib/patrolling/goal
+-- Set runtime path of "/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/lib/patrolling/goal" to ""
+-- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/ament_index/resource_index/package_run_dependencies/patrolling
+-- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/ament_index/resource_index/parent_prefix_path/patrolling
+-- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/environment/ament_prefix_path.sh
+-- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/environment/ament_prefix_path.dsv
+-- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/environment/path.sh
+-- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/environment/path.dsv
+-- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/local_setup.bash
+-- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/local_setup.sh
+-- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/local_setup.zsh
+-- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/local_setup.dsv
+-- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/package.dsv
+-- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/ament_index/resource_index/packages/patrolling
+-- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/cmake/patrollingConfig.cmake
+-- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/cmake/patrollingConfig-version.cmake
+-- Installing: /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/package.xml

@@ -1,0 +1,8 @@
+[01m[K/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/src/publisher.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/src/publisher.cpp:13:8:[m[K [01;35m[Kwarning: [m[Kunused variable ‘[01m[Kpublish_count[m[K’ [[01;35m[K-Wunused-variable[m[K]
+   13 |   auto [01;35m[Kpublish_count[m[K = 0;
+      |        [01;35m[K^~~~~~~~~~~~~[m[K
+make[2]: *** Se borra el archivo 'CMakeFiles/goal.dir/src/publisher.cpp.o'
+make[2]: *** [CMakeFiles/goal.dir/build.make:63: CMakeFiles/goal.dir/src/publisher.cpp.o] Interrupción
+make[1]: *** [CMakeFiles/Makefile2:105: CMakeFiles/goal.dir/all] Interrupción
+make: *** [Makefile:141: all] Interrupción

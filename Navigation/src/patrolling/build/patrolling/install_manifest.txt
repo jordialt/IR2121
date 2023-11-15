@@ -1,0 +1,16 @@
+/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/lib/patrolling/goal
+/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/ament_index/resource_index/package_run_dependencies/patrolling
+/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/ament_index/resource_index/parent_prefix_path/patrolling
+/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/environment/ament_prefix_path.sh
+/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/environment/ament_prefix_path.dsv
+/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/environment/path.sh
+/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/environment/path.dsv
+/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/local_setup.bash
+/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/local_setup.sh
+/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/local_setup.zsh
+/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/local_setup.dsv
+/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/package.dsv
+/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/ament_index/resource_index/packages/patrolling
+/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/cmake/patrollingConfig.cmake
+/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/cmake/patrollingConfig-version.cmake
+/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/install/patrolling/share/patrolling/package.xml

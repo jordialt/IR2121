@@ -1,6 +1,6 @@
 #include <chrono>
 #include "rclcpp/rclcpp.hpp"
-#include "geometry_msgs/msg/posestamped.hpp"
+#include "geometry_msgs/msg/pose_stamped.hpp"
 
 using namespace std::chrono_literals;
 
@@ -12,9 +12,18 @@ int main(int argc, char * argv[])
   geometry_msgs::msg::PoseStamped message;
   auto publish_count = 0;
   rclcpp::WallRate loop_rate(500ms);
+  message.pose.position.x=2;
+  message.pose.position.y=2;
+  message.pose.position.z=0;
+  message.pose.orientation.x=0;
+  message.pose.orientation.y=0;
+  message.pose.orientation.z=0;
+  message.pose.orientation.w=1;
+
+
 
   while (rclcpp::ok()) {
-    message.data = "Hello, world! " + std::to_string(publish_count++);
+    
     publisher->publish(message);
     rclcpp::spin_some(node);
     loop_rate.sleep();

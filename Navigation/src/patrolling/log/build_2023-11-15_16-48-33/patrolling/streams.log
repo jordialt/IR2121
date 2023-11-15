@@ -1,0 +1,11 @@
+[0.033s] Invoking command in '/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/build/patrolling': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/build/patrolling -- -j6 -l6
+[0.117s] [35m[1mScanning dependencies of target goal[0m
+[0.173s] [ 50%] [32mBuilding CXX object CMakeFiles/goal.dir/src/publisher.cpp.o[0m
+[0.245s] [01m[K/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/src/publisher.cpp:3:10:[m[K [01;31m[Kfatal error: [m[Kgeometry_msgs/PoseStamped.hpp: No existe el archivo o el directorio
+[0.245s]     3 | #include [01;31m[K"geometry_msgs/PoseStamped.hpp"[m[K
+[0.245s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[0.245s] compilation terminated.
+[0.247s] make[2]: *** [CMakeFiles/goal.dir/build.make:63: CMakeFiles/goal.dir/src/publisher.cpp.o] Error 1
+[0.247s] make[1]: *** [CMakeFiles/Makefile2:105: CMakeFiles/goal.dir/all] Error 2
+[0.247s] make: *** [Makefile:141: all] Error 2
+[0.249s] Invoked command in '/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/build/patrolling' returned '2': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/build/patrolling -- -j6 -l6
