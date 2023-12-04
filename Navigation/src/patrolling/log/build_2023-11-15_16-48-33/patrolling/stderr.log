@@ -1,7 +1,0 @@
-[01m[K/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/src/publisher.cpp:3:10:[m[K [01;31m[Kfatal error: [m[Kgeometry_msgs/PoseStamped.hpp: No existe el archivo o el directorio
-    3 | #include [01;31m[K"geometry_msgs/PoseStamped.hpp"[m[K
-      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
-compilation terminated.
-make[2]: *** [CMakeFiles/goal.dir/build.make:63: CMakeFiles/goal.dir/src/publisher.cpp.o] Error 1
-make[1]: *** [CMakeFiles/Makefile2:105: CMakeFiles/goal.dir/all] Error 2
-make: *** [Makefile:141: all] Error 2

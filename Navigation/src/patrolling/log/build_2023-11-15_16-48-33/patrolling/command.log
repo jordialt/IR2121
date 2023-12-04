@@ -1,2 +1,0 @@
-Invoking command in '/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/build/patrolling': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/build/patrolling -- -j6 -l6
-Invoked command in '/home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/build/patrolling' returned '2': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/usuario/Documentos/GitHub/IR2121/Navigation/src/patrolling/build/patrolling -- -j6 -l6
