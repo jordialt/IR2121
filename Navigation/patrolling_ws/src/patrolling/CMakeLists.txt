@@ -23,7 +23,7 @@ find_package(geometry_msgs REQUIRED)
 find_package(rclcpp REQUIRED)
 find_package(nav_msgs REQUIRED)
 
-add_executable(goal src/goal_follower.cpp)
+add_executable(goal src/goal_follow.cpp)
 ament_target_dependencies(goal rclcpp geometry_msgs nav_msgs)
 
 install(TARGETS
